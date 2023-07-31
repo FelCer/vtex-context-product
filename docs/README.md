@@ -8,7 +8,7 @@
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 <!-- DOCS-IGNORE:end -->
 
-Cambiar lenguaje de README a [![en](https://img.shields.io/badge/lang-en-red.svg)](https://github.com/FelCer/vtex-context/blob/main/docs/README.en.md)
+Cambiar lenguaje de README a [![en](https://img.shields.io/badge/lang-en-red.svg)](https://github.com/FelCer/vtex-context-product/blob/main/docs/README.en.md)
 
 Esta aplicación sirve de ejemplo para manejar el contexto de un producto y se hace un ejemplo del SKU seleccionado.
 <br>
@@ -45,7 +45,7 @@ Gracias a estas maravillosas personas: ([emoji key](https://allcontributors.org/
 
 <table>
   <tr>
-    <td align="center"><img src="https://avatars.githubusercontent.com/u/22477264?v=4" width="100px;" alt=""/><br /><sub><b>Luis Felipe Cerero Garcia</b></sub></a><br /><a href="https://github.com/ITGlobers/showcase-cencosud/commits?author=felcer" title="Documentation">📖</td>
+    <td align="center"><img src="https://avatars.githubusercontent.com/u/22477264?v=4" width="100px;" alt=""/><br /><sub><b>Luis Felipe Cerero Garcia</b></sub></a><br /><a href="https://github.com/FelCer/vtex-context-product/commits?author=felcer" title="Documentation">📖</td>
   </tr>
 </table>
 
